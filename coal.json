@@ -1,0 +1,27 @@
+[
+  {
+    "city": "San Francisco",
+    "distance": 300,
+    "price": 30
+  },
+  {
+    "city": "New York",
+    "distance": 380,
+    "price": 27
+  },
+  {
+    "city": "Mexico City",
+    "distance": 300,
+    "price": 27
+  },
+  {
+    "city": "Los Angeles",
+    "distance": 380,
+    "price": 20
+  },
+  {
+    "city": "Buffalo",
+    "distance": 300,
+    "price": 31
+  }
+]
